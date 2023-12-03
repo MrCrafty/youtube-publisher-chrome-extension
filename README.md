@@ -2,7 +2,7 @@
 
 ## Steps to install
 
-- Download the File as Zip and Unzip it.
+- Download the Code as Zip and Unzip it.
 - Open Chrome, go to `chrome://extensions/`
 - Toggle Developer Mode on Right Top
 - Click on Load Unpacked button on Left Top menu Bar and Select the folder
