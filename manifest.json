@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "youtube_publisher",
+  "version": "1.0",
+  "description": "An extension to publish draft youtube videos",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "author": "harsh.mithapara@gmail.com",
+  "action": {},
+  "permissions": ["scripting", "activeTab"]
+}
